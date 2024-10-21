@@ -21,7 +21,7 @@ bindings = [
 { mouse = "Right", mods = "Shift", action = "Paste"}
 ]
 
-# Github colors theme from https://github.com/projekt0n/github-theme-contrib
+# Modified theme from https://github.com/projekt0n/github-theme-contrib
 [colors.primary]
 background = "#0a0c10"
 foreground = "#f0f3f6"
@@ -33,19 +33,20 @@ cursor = "#f0f3f6"
 [colors.normal]
 black ="#7a828e"
 red = "#ff9492"
-green = "#26cd4d"
+green = "#87d75f"
 yellow = "#f0b72f"
-blue = "#71b7ff"
+blue = "#5fd7ff"
 magenta = "#cb9eff"
 cyan = "#39c5cf"
 white = "#d9dee3"
 
 [colors.bright]
-black = "#9ea7b3"
-red = "#ffb1af"
-green = "#4ae168"
-yellow = "#f7c843"
-blue = "#91cbff"
-magenta = "#cb9eff"
-cyan = "#39c5cf"
-white = "#d9dee3"
+black = "#b1b5bc"
+red = "#fff8f8"
+green = "#c4ebb0"
+yellow = "#f6d78e"
+blue = "#c4f0ff"
+magenta = "#ffffff"
+cyan = "#8bdde2"
+white = "#ffffff"
+
