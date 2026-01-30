@@ -11,9 +11,9 @@ term = "xterm-256color"
 size = 11.5
 builtin_box_drawing = true
 
-normal = { family = "FiraCode Nerd Font Mono", style = "Retina"}
-bold = { family = "FiraCode Nerd Font Mono", style = "Bold"}
-italic = { family = "FiraCode Nerd Font Mono", style = "Italic"}
+normal = { family = "JetBrains Mono NL", style = "Retina"}
+bold = { family = "JetBrains Mono ExtraBold", style = "Bold"}
+italic = { family = "JetBrains Mono", style = "Italic"}
 
 [mouse]
 bindings = [
